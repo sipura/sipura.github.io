@@ -1,3 +1,3 @@
-# Hello
+# Sipura
 
-this is the content of the webpage
+An easy-to-use, safe and transparent library for graph datastructures and algorithms. 
